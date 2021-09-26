@@ -11,18 +11,11 @@
 }
 
 .box {
-  box-sizing: border-box;
   width: 150px;
   height: 150px;
   border: 1px solid red;
   text-align: center;
-  position: relative;
-  z-index: 100;
   background-color: white;
-}
-
-.box:hover {
-  cursor: pointer;
 }
 
 .large_box {
